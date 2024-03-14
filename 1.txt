@@ -1,1 +1,3 @@
 This is first change for first file when initialized
+the previous change is reverted
+this is new change
